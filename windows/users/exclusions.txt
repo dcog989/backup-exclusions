@@ -1,5 +1,5 @@
 # Exclude list for backing up Windows 11 Users\myUserName
-# echo "{name}={value}" >> $GITHUB_ENV
+# 
 $RECYCLE.BIN
 $Recycle.Bin
 **/*Cache*
