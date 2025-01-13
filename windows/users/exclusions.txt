@@ -1,0 +1,80 @@
+# Exclude list for backing up Windows 11 Users\myUserName
+# echo "{name}={value}" >> $GITHUB_ENV
+$RECYCLE.BIN
+$Recycle.Bin
+**/*Cache*
+**/*Temp*
+**/*cache*
+**/*temp*
+**/parent.lock
+.dbus-keyrings
+AppData/Local/AMD*
+AppData/Local/ATI
+AppData/Local/Adobe
+AppData/Local/Amuse
+AppData/Local/Application Data
+AppData/Local/CEF
+AppData/Local/Chromium
+AppData/Local/Comms
+AppData/Local/ConnectedDevicesPlatform
+AppData/Local/CrashDumps
+AppData/Local/Diagnostics
+AppData/Local/Downloaded Installations
+AppData/Local/ElevatedDiagnostics
+AppData/Local/Google
+AppData/Local/GroupPolicy
+AppData/Local/History
+AppData/Local/INetHistory
+AppData/Local/IconCache.db
+AppData/Local/IsolatedStorage
+AppData/Local/Microsoft*
+AppData/Local/Mozilla
+AppData/Local/Package Cache
+AppData/Local/PackageManagement
+AppData/Local/Packages
+AppData/Local/PeerDistRepub
+AppData/Local/Programs
+AppData/Local/Publishers
+AppData/Local/REDEngine
+AppData/Local/Steam
+AppData/Local/Temp
+AppData/Local/ToastNotificationManagerCompat
+AppData/Local/UniGetUI
+AppData/Local/UnrealEngine
+AppData/Local/VirtualStore
+AppData/Local/XnViewMP
+AppData/Local/com.azumi.dev
+AppData/Local/kopia*
+AppData/Local/recently-used.xbel
+AppData/Local/resmon.resmoncfg
+AppData/Local/setup
+AppData/Local/speech
+AppData/LocalLow
+AppData/Roaming/AMD
+AppData/Roaming/Adobe
+AppData/Roaming/EasyAntiCheat
+AppData/Roaming/Microsoft
+AppData/Roaming/Mozilla/Firefox/Background Tasks Profiles
+AppData/Roaming/Mozilla/Firefox/Crash Reports
+AppData/Roaming/Mozilla/Firefox/Pending Pings
+AppData/Roaming/Mozilla/Firefox/Profiles/**/storage/default
+AppData/Roaming/Mozilla/Firefox/Profiles/*.test
+AppData/Roaming/steelseries*
+Application Data
+Contacts
+Cookies
+Favorites
+LOCK
+Links
+Local Settings
+My Documents
+NTUSER.*
+NetHood
+PrintHood
+Recent
+Searches
+SendTo
+Start Menu
+Templates
+lockfile
+ntuser.*
