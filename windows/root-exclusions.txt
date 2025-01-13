@@ -1,16 +1,16 @@
 # Exclude list for backing up root drive
 # 
-$RECYCLE.BIN
-$Recycle.Bin
 /!kopia ignore
 /Downloads/**/*.mkv
 /Downloads/**/*.mp4
 /Downloads/**/*.mpeg
 /Downloads/**/*.mpg
 /Music
+$Recycle.Bin
+$RECYCLE.BIN
 Documents and Settings
 DumpStack.log.tmp
-System Volume Information
 hiberfil.sys
 pagefile.sys
 swapfile.sys
+System Volume Information
